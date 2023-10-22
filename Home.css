@@ -1,0 +1,220 @@
+ .u-section-1 {
+  background-image: none;
+  min-height: 895px;
+}
+
+.u-section-1 .u-shape-1 {
+  height: 617px;
+  background-image: linear-gradient(#db545a, #f5d654);
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 927px;
+  height: 618px;
+  object-position: 12.76% 50%;
+  background-position: 12.76% 50%;
+  margin: -547px calc(((100% - 1140px) / 2) + 66px) 0 auto;
+}
+
+.u-section-1 .u-text-1 {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 5.3125rem;
+  font-weight: 700;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: -567px calc(((100% - 1140px) / 2) + 299px) 0 96px;
+}
+
+.u-section-1 .u-gallery-1 {
+  width: 785px;
+  height: 219px;
+  margin: 124px auto 60px 96px;
+}
+
+.u-section-1 .u-gallery-inner-1 {
+  grid-template-columns: repeat(3, auto);
+  grid-gap: 10px;
+}
+
+.u-section-1 .u-over-slide-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-1 .u-over-slide-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-1 .u-over-slide-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-shape-1 {
+    height: 580px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 885px;
+    height: 584px;
+    margin-top: -510px;
+    margin-right: calc(((100% - 940px) / 2));
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: -518px;
+    margin-right: calc(((100% - 940px) / 2) + 145px);
+    margin-left: 50px;
+  }
+
+  .u-section-1 .u-gallery-1 {
+    margin-top: 108px;
+    margin-left: 50px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 888px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 622px;
+    height: 475px;
+    object-position: 100% 50%;
+    margin-right: calc(((100% - 720px) / 2));
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 5rem;
+    margin-top: -436px;
+    margin-right: calc(((100% - 720px) / 2) + 111px);
+    margin-left: calc(((100% - 720px) / 2));
+  }
+
+  .u-section-1 .u-gallery-1 {
+    width: 670px;
+    height: 215px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 743px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    height: 535px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 481px;
+    height: 437px;
+    margin-top: -465px;
+    margin-right: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+    margin-top: -370px;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+
+  .u-section-1 .u-gallery-1 {
+    width: 493px;
+    height: 159px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 1047px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 301px;
+    height: 301px;
+    margin-top: -448px;
+    margin-right: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+    margin-top: -350px;
+    margin-right: calc(((100% - 340px) / 2) + 61px);
+  }
+
+  .u-section-1 .u-gallery-1 {
+    width: 227px;
+    height: 560px;
+    margin-top: 162px;
+  }
+
+  .u-section-1 .u-gallery-inner-1 {
+    grid-template-columns: repeat(1, auto);
+  }
+} .u-section-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/flat-lay-delicious-pizza-concept_23-2148643464.jpg?rand=1ca3");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 150px auto 0;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 125px 0 0;
+}
+
+.u-section-2 .u-btn-1 {
+  background-image: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin: 35px auto 0;
+}
+
+.u-section-2 .u-btn-2 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  margin: 108px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 660px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 506px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 380px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 239px;
+  }
+}
